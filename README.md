@@ -25,3 +25,5 @@
 <br>
 9_Bing文生圖
 <br>
+10_StableDiffusion 1.5文生圖
+<br>
