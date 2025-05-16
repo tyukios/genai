@@ -27,3 +27,5 @@
 <br>
 10_StableDiffusion 1.5文生圖
 <br>
+11_Fooocus文生圖
+<br>
