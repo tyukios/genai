@@ -15,9 +15,11 @@
 <br>
 https://colab.research.google.com/drive/10wc9tzg_ZHtRIYYuJu0LGodGJ0iVbkU-?usp=sharing
 <br>
+<br>
 2.第一版架構：
 <br>
 https://colab.research.google.com/drive/1hOjCSL3gFhP4Lv3smMNjfQKqYXslZpUh?usp=sharing
+<br>
 <br>
 3.第二版架構：
 <br>
